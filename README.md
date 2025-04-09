@@ -5,6 +5,7 @@ I am now a college student. Interested in embedded...\
 \
 欢迎访问我的个人主页：<a href="https://hi.godmao.top">https://hi.godmao.top</a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g0dmao&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <!--
 **g0dmao/g0dmao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
