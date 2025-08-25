@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m godmao!\
+I’m GoDm@!\
 I am now a college student. Interested in embedded...\
 我现在是一名大学生。对嵌入式感兴趣。\
 \
